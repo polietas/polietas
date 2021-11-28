@@ -1036,16 +1036,16 @@ blockquote {
 ---------------------------------------------------*/
 /* Slides */
 .rev_slider .tp-caption.NotGeneric-Title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
 .rev_slider .tp-caption.NotGeneric-SubTitle {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
 }
 .rev_slider .tp-caption.NotGeneric-Text {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
 .uranus.tparrows {
